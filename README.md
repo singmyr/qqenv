@@ -1,5 +1,4 @@
 # QQEnv
----
 ![](https://img.shields.io/badge/Build-Unknown-red.svg)
 ![](https://img.shields.io/badge/Stable-master-blue.svg)
 ![](https://img.shields.io/badge/Unstable-everything_else-orange.svg)
